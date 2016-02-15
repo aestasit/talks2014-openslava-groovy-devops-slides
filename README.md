@@ -1,7 +1,7 @@
 
 # Groovy DevOps in the Cloud
 
-Slide deck of presentation "**Groovy DevOps in the Cloud**" given at **OpenaSlava** (Bratislava), *2014* by *Andrey Adamovich*.
+Slide deck of presentation "**Groovy DevOps in the Cloud**" given at **OpenSlava** (Bratislava), *2014* by *Andrey Adamovich*.
 
 Presentation description:
 
